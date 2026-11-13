@@ -16,37 +16,48 @@
 ### 🌐 Redes y Contacto
 <div align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://skillicons.dev" alt="LinkedIn" />
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com" target="_blank">
-    <img src="https://skillicons.dev" alt="Twitter" />
+    <img src="https://shields.io" alt="Twitter" />
   </a>
   <a href="https://instagram.com" target="_blank">
-    <img src="https://skillicons.dev" alt="Instagram" />
+    <img src="https://shields.io" alt="Instagram" />
   </a>
-  <a href="mailto:xd@gmail.com">
-    <img src="https://skillicons.dev" alt="Gmail" />
+  <a href="mailto:tu_correo@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
   </a>
-  <img src="https://skillicons.dev" alt="Discord" />
+  <img src="https://shields.io" alt="Discord" />
 </div>
 
 ---
 
 ### 💻 Tecnologías que Conozco
 <div align="center">
-  <img src="https://skillicons.dev" alt="Tecnologías que conozco" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="PHP" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="C#" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="SQLite" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Visual Studio" />
 </div>
 
 ### ⚡ Tecnologías que Uso en mi Día a Día
 <div align="center">
-  <img src="https://skillicons.dev" alt="Tecnologías de uso diario" />
-</div>
-
----
-
-### 🏆 Trofeos de GitHub
-<div align="center">
-  <img src="https://vercel.app" alt="Trofeos de GitHub" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="C#" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Visual Studio" />
 </div>
 
 ---
@@ -60,5 +71,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://demolab.com" alt="Racha de contribuciones" />
+  <img src="https://vercel.app" alt="Racha de contribuciones" />
 </div>
